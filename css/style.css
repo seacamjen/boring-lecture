@@ -1,0 +1,20 @@
+img.intro {
+  display: block;
+  width: auto;
+  height: 200px;
+  margin: auto;
+}
+
+h2.intro {
+  color: brown;
+  text-align: center;
+  text-decoration-style: wavy;
+  font-family: cursive;
+  font-style: oblique;
+}
+
+p.intro {
+  text-indent: inherit;
+  font-style: italic;
+  font-weight: bold;
+}
