@@ -1,3 +1,7 @@
+h1 {
+  text-align: center;
+}
+
 img.intro {
   display: block;
   width: auto;
@@ -17,4 +21,9 @@ p.intro {
   text-indent: inherit;
   font-style: italic;
   font-weight: bold;
+}
+
+.intro {
+  color: green;
+  text-align: center;
 }
